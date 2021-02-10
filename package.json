@@ -1,6 +1,6 @@
 {
   "name": "tlg",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "NodeJS client for the Telegram's tdlib",
   "main": "index.js",
   "scripts": {
